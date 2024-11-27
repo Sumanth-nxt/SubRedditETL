@@ -4,7 +4,7 @@
 ## Overview
 -----------
 
-In this project I have written python scripts to extract, transform, and load (ETL) Reddit data into a Redshift data warehouse. Also additional tools such as Apache Airflow, Celery, Doceker, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift are used to create a Data warehouse on cloud.
+In this project I have written python scripts to extract, transform, and load (ETL) Reddit data into a Redshift data warehouse. Also additional tools such as Apache Airflow, Celery, Docker, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, and Amazon Redshift are used to create a Data warehouse on cloud.
 
 ## Architecture
 -------------
