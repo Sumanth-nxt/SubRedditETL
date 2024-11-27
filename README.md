@@ -1,5 +1,5 @@
 # SubReddit ETL project
-=====================
+------------
 
 ## Overview
 -----------
@@ -8,7 +8,7 @@ In this project I have written python scripts to extract, transform, and load (E
 
 ## Architecture
 -------------
--insert image here -- need to upload system design image here
+- *insert system design image here
 
 ### Components
 
